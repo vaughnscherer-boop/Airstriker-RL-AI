@@ -1,0 +1,14 @@
+/airstriker_dqn.pt
+/airstriker_dqn_500k.pt
+/airstriker_dqn_best.pt
+/airstriker_dqn_run2_best_1968.pt
+/airstriker_dqn_run3.pt
+/airstriker_dqn_run3_best.pt
+/airstriker_dqn_run3_best_2340.pt
+/airstriker_dqn_run4.pt
+/airstriker_dqn_run4_best.pt
+/airstriker_dqn_v2.pt
+/frame_gray_84.png
+/test_evn.py
+/train.py
+/training_log_2.txt
